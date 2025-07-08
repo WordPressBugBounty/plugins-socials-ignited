@@ -3,10 +3,10 @@ Plugin Name: Socials Ignited
 Plugin URI: https://www.cssigniter.com/socials-ignited/
 Author URI: https://www.cssigniter.com/
 Author: The CSSIgniter Team
-Contributors: anastis, tsiger, silencerius, nvourva, cssigniterteam
-Tags: social, widget, icons, round, square, light, dark, fontawesome
+Contributors: cssigniterteam, anastis, tsiger, silencerius
+Tags: social media, social icons, social networking, social profiles, social widgets
 Requires at least: 5.2
-Tested up to: 6.4
+Tested up to: 6.8
 Stable tag: 2.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -132,7 +132,7 @@ For more info visit [the plugin's documentation page](https://www.cssigniter.com
 
 = 1.5 =
 * Added Font Awesome support as *-= CI Socials Ignited =-* widget.
-* Renamed old *-= CI Socials Ignited =-* widget to *Socials Ignited (deprecated)* .
+* Renamed old *-= CI Socials Ignited =-* widget to *Socials Ignited (deprecated)*
 * Added various deprecation messages. No functions/files have actually been marked deprecated though.
 
 = 1.4 =
